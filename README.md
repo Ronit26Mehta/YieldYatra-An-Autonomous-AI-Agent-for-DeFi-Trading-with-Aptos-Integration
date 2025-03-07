@@ -31,7 +31,17 @@ YieldYatra consists of several integrated modules:
 - **Logging & Monitoring**: Detailed trade logs and interactive visualizations.
 
 ---
+## System Design:
+   1. Activity Diagram
+   ![alt text](<design/Activity Diagram.png>)
 
+   2. System Design:
+   ![alt text](design/system-design.png)
+
+   3. User Flow Diagram:
+    ![alt text](<design/user flow diagram.png>)
+
+---
 ## 📂 Project Structure
 
 ```
